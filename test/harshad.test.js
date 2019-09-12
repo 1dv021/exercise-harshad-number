@@ -52,6 +52,11 @@ describe('getNext', () => {
     expect(harshad.getNext(65)).to.equal(70)
     done()
   })
+
+  it('Passsing the argument 10 should return 12', done => {
+    expect(harshad.getNext(10)).to.equal(12)
+    done()
+  })
 })
 
 describe('getSequence', () => {

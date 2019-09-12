@@ -2,7 +2,7 @@
 
 - C-nivå
 - [GitBook](https://coursepress.gitbook.io/1dv021/ovningsuppgifter/del-1/c-niva/harshadtal)
-- [Lösningsförslag(https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/harshad-number)
+- [Lösningsförslag](https://github.com/1dv021/exercise-solution-proposals/tree/master/part-1/harshad-number)
 
 
 >__VIKTIGT!__ Innan du börjar arbeta med övningsuppgiften är det viktigt att du följer guiden [Att komma igång med en övningsuppgift](https://coursepress.gitbook.io/1dv021/guider/att-komma-igang-med-en-ovningsuppgift) för att lägga till övningsuppgiftens repo till ditt repo för övningsuppgifter.
