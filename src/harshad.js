@@ -40,6 +40,6 @@ function getSequence (count, start = 0) {
 }
 
 // Exports
-exports.isValid = isValid
-exports.getNext = getNext
-exports.getSequence = getSequence
+module.exports.isValid = isValid
+module.exports.getNext = getNext
+module.exports.getSequence = getSequence
